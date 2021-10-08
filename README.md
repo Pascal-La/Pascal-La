@@ -2,14 +2,27 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ - 💻 web developer
+ - ⚛️ React
+ - 🌧️ based in Paris
+ - ✉️ former bike messenger
+
+switch(❤️) {
+  case 🌱:
+    love = "NATURE";
+    break;
+  case 🍜:
+    eat = "FOOD";
+    break;
+  case 🚴🏻:
+    ride = "BIKES";
+    break;
+  case 🦉:
+    adore = "ANIMALS";
+  default:
+    live = "LIFE";
+    👶👦🧑👨👨‍🦳👴
+}
 
 <!--
 **Pascal-La/Pascal-La** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
