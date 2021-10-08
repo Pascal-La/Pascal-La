@@ -1,3 +1,5 @@
+![Cover](https://github.com/Pascal-La/Pascal-La/blob/main/img/cover.jpg)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
@@ -9,7 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Cover](https://github.com/Pascal-La/Pascal-La/blob/main/img/cover.jpg)
 <!--
 **Pascal-La/Pascal-La** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
